@@ -32,3 +32,5 @@ http://ugur.ozyilmazel.com/blog/2011/03/29/kendi-rubyini-gemini-kendin-kur/
 https://docs.docker.com/engine/installation/windows/
 https://seminer.linux.org.tr/wp-content/uploads/Vagrant-OYLG2014.pdf
 https://www.vagrantup.com/docs/docker/basics.html
+
+http://podcasty.co/webBox5/show/LobNhC
